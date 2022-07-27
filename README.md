@@ -1,5 +1,5 @@
 # Laravel Nova Vimeo Field
-Laravel Nova 4 Vimeo video field created for my private use. So it is not well designed any recommendations and PRs are welcome. 
+Laravel Nova 4 Vimeo video field created for my private use. So it is not well designed thus any recommendations and PRs are welcome. 
 
 # Features
 - Support only Nova 4 with Vue 3. If you want to use with Nova 3 please use original package specified in Credits part below.
